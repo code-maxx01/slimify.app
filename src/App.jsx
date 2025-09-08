@@ -40,8 +40,16 @@ function App() {
 
         {/* AdSense Placeholder */}
         <div style={{ marginTop: "3rem" }}>
-          {/* Replace below with your AdSense script */}
-          <p>Ad Placeholder</p>
+          <script type="text/javascript">
+	atOptions = {
+		'key' : '35e022604ea2d8741ba2b1871b1f941e',
+		'format' : 'iframe',
+		'height' : 300,
+		'width' : 160,
+		'params' : {}
+	};
+</script>
+<script type="text/javascript" src="//www.highperformanceformat.com/35e022604ea2d8741ba2b1871b1f941e/invoke.js"></script>
         </div>
       </div>
         <div>
